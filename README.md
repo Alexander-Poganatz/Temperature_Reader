@@ -16,3 +16,4 @@ Run npm install for the server-client,
 In app.js, modfiy LOCAL_HOST_PORT and the SERIAL_PORT values for your environment.
 run: node app.js
 
+![Photo of the web application](https://flic.kr/p/YL6XQB)
