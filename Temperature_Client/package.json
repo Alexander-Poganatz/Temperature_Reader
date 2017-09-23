@@ -1,0 +1,16 @@
+{
+  "name": "temperature_client",
+  "version": "1.0.0",
+  "description": "Talks with an Arduino over a serial port to get the temperature reading from the room",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Poganatz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "purecss": "^1.0.0",
+    "serialport": "^5.0.0"
+  }
+}
