@@ -7,8 +7,12 @@ send data to the webpage
 
 # Setup:
 The arduino sketch in the Temperature_Humidity folder has to be compiled and pushed to the Arduino.
+
+The DHT11PIN value can be changed for which ever data pin you are using.
+
 the DHT11 library files have to be installed
 
-After running npm install for the server-client, 
+Run npm install for the server-client, 
+In app.js, modfiy LOCAL_HOST_PORT and the SERIAL_PORT values for your environment.
 run: node app.js
 
