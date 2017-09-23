@@ -1,4 +1,4 @@
-# Temperature_Reader
+ Temperature_Reader
 A project that gets information from a temperature-humidity sensor onto a web page
 
 # Purpose:
@@ -16,4 +16,4 @@ Run npm install for the server-client,
 In app.js, modfiy LOCAL_HOST_PORT and the SERIAL_PORT values for your environment.
 run: node app.js
 
-![Photo of the web application](https://flic.kr/p/YL6XQB)
+![Photo of the web application](https://farm5.staticflickr.com/4400/37255068231_dae98b7b32_b.jpg)
